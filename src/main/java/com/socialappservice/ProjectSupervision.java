@@ -8,7 +8,7 @@ class ProjectIteration {
     HashMap<String, Integer> PartnerScores;
 }
 
-public class ProjectSupervisionService {
+public class ProjectSupervision {
     private ArrayList<ProjectIteration> IterationList = new ArrayList<ProjectIteration>();
     
 }

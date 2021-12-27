@@ -4,9 +4,10 @@
     xsi:schemaLocation="http://www.springframework.org/schema/beans
         https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="ProjectSupervisionSurvice"
-        class="com.socialappservice.ProjectSupervisionSurvice">
+    <bean id="MainService" class="com.socialappservice.MainService">
+    </bean>
 
+    <bean id="OperatingProject" class="com.socialappservice.OperatinProject">
     </bean>
 
 </beans>
